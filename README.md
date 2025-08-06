@@ -1,6 +1,6 @@
-# Quiz Java Console avec Interface HTML/CSS
+# Quiz Java Console 
 
-Ce projet est une application de quiz développée en **Java** (console) avec une maquette d'interface visuelle en **HTML/CSS**.
+Ce projet est une application de quiz développée en **Java** (console) 
 
 ---
 
@@ -8,7 +8,7 @@ Ce projet est une application de quiz développée en **Java** (console) avec un
 
 - Quiz à choix multiples avec questions en console Java
 - Calcul et affichage du score final dans la console
-- Interface web statique HTML/CSS pour présenter le quiz visuellement (sans interaction côté client)
+
 
 ---
 
@@ -17,8 +17,6 @@ Ce projet est une application de quiz développée en **Java** (console) avec un
 quiz/
 ├── src/ # Code source Java
 │ └── ...
-├── index.html # Interface web du quiz
-├── style.css # Styles CSS pour l'interface
 └── README.md # Ce fichier
 
 ---
@@ -27,7 +25,7 @@ quiz/
 
 - Java JDK installé (version 8+)
 - IntelliJ IDEA ou autre IDE Java
-- Navigateur web pour afficher la maquette HTML
+
 
 ---
 
@@ -39,16 +37,11 @@ quiz/
 
 ---
 
-## Visualiser l'interface HTML
 
-- Ouvrir `index.html` dans un navigateur web (double clic ou via VSCode)
-- Cette interface est une maquette statique qui illustre le quiz
-
----
 
 ## Hébergement
 
-- La partie frontend HTML/CSS est hébergée en ligne via GitHub 
+
 - Le backend Java est une application console locale
 
 ---
