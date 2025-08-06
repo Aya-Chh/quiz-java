@@ -48,7 +48,7 @@ quiz/
 
 ## Hébergement
 
-- La partie frontend HTML/CSS est hébergée en ligne via [GitHub Pages](https://ton-utilisateur.github.io/quiz-java/) *(lien à adapter)*
+- La partie frontend HTML/CSS est hébergée en ligne via GitHub 
 - Le backend Java est une application console locale
 
 ---
